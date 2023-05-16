@@ -7,3 +7,5 @@ teams and betting odds. Our project will use the statistics of teams and players
 betting odds for people to put money on. We will also model the aspect of account
 management so that each bettor can be uniquely identified and the database will link their
 bets to their account.
+
+By Julian Kennedy, Anthony Chen, Daichi Furukawa
